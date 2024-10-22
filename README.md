@@ -1,6 +1,7 @@
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
+[live site](https://adarshkumbar1.github.io/Blog-preview-card/)
 
 ## Welcome! 👋
 
